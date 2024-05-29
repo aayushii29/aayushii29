@@ -1,7 +1,7 @@
 # Hi there, I’m Aayushi! 👋
 
 ## About Me
-I’m Aayushi, a passionate enthusiast of Data Structures and Algorithms, Competitive Programming, and Machine Learning. I'm always eager to learn and collaborate on exciting projects.
+I’m Aayushi, a passionate enthusiast of Computer Science and Mathematics. I'm always eager to learn and collaborate on exciting projects.
 
 - 🌱 **Currently Learning:**
   - Data Structures and Algorithms
